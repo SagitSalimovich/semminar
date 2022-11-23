@@ -4,17 +4,17 @@ a = 5; b = 7 -> max = 7
 a = 2 b = 10 -> max = 10
 a = -9 b = -3 -> max = -3*/
 
-Console.WriteLine("Imput nuber");
+/*Console.WriteLine("Imput nuber");
 int a = Convert.ToInt32(Console.ReadLine());
 int b = Convert.ToInt32(Console.ReadLine());
 if (a < b) 
 {
     Console.WriteLine(b);
 }
-else (a > b)
+else if (a > b)
 {  
     Console.WriteLine(a);
-}
+}*/
 
 /*Задача 4: Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
 2, 3, 7 -> 7
